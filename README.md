@@ -15,4 +15,4 @@ kato+github@phalanxware.com
 
 ## その他
 
-オリジナルのデザインは [ぺーた](http://twitter.com/peta_) です。
+オリジナルのデザイン、著作権者は [ぺーた](http://twitter.com/peta_) です。
