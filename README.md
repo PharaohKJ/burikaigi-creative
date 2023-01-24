@@ -1,4 +1,4 @@
-# BuriKaigi ロゴファイル
+# BuriKaigi Creative
 
 ## ライセンス
 
