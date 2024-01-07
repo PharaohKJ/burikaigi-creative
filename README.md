@@ -16,3 +16,8 @@ kato+github@phalanxware.com
 ## その他
 
 オリジナルのデザイン、著作権者は [ぺーた](http://twitter.com/peta_) です。
+
+### アイコン
+
+アイコンは [Faviconジェネレーター](https://favicon-generator.mintsu-dev.com)を用いて作成しました。ありがとうございます。
+svgアイコンはLibreOffice Drawを使って変換しました。
